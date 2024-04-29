@@ -25,10 +25,4 @@ pipeline {
             }
         }
     }
-    
-    post {
-        always {
-            // Clean up any resources or perform cleanup tasks if needed
-        }
-    }
 }
